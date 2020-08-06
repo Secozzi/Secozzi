@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Folke
 
-<!--
-**Secozzi/Secozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just a student that loves programming and make stuff that helps me in everyday life
 
-Here are some ideas to get you started:
+### Languages and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png"/>][python]
+[<img align="left" alt="PyQt5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg"/>][pyqt5]
+[<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>][cplusplus]
+[<img align="left" alt="Haskell" width="26px" src="https://img.icons8.com/office/30/000000/haskell.png"/>][haskell]
+
+[python]: https://www.python.org/
+[pyqt5]: https://doc.qt.io/qtforpython/
+[cplusplus]: http://www.cplusplus.com/doc/tutorial/
+[haskell]: https://www.haskell.org/
